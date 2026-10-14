@@ -1,3 +1,4 @@
+
 # Resource-Aware Monitoring and Adaptive Management of Linux Workloads
 
 A working implementation of the project: a Python agent that monitors a
@@ -147,3 +148,5 @@ the project brief asks for.
   any cloud VM.
 - Replace the fixed thresholds in `analyzer.py` with a simple moving
   average / anomaly detector.
+=======
+# OS-ResourceMonitoring_AdaptiveManagement-2601050107,2601050108
